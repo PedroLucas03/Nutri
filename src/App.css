@@ -1,0 +1,41 @@
+
+.titulo{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  font-size: 40px; 
+  background-color: rgb(196, 180, 159);
+}
+
+.titulo-artigo{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.imagens{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.texto{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.botao{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  border-radius: 9%;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(212, 212, 180);
+  border: none;
+}
